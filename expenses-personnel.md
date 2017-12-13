@@ -1,3 +1,5 @@
+Sourced: https://makezine.com/2013/06/04/making-makerspaces-creating-a-business-model/
+
 <ul>
 <li><b>Financial Controller:</b> Head bookkeeper and accountant for the business. We hired someone for this position before we hired anyone else, because income, expenses, and filing taxes is such an existence-threatening big deal that we needed to pay someone for this immediately.</li>
 <li><b>CEO/Executive Director:</b> Primary point of contact and main organizer for the early life of the organization, head manager for the later life of the organization.</li>
